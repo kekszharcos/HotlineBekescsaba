@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 139
+  controlID: 137
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -718,7 +718,7 @@ MonoBehaviour:
       containerId: overlay-container--right
       floating: 0
       collapsed: 0
-      displayed: 1
+      displayed: 0
       snapOffset: {x: 48, y: 48}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
@@ -766,7 +766,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 33.57731, y: 7.861821, z: -0.48949888}
     speed: 2
-    m_Value: {x: 34.059395, y: 6.976534, z: -0.46565762}
+    m_Value: {x: 33.57731, y: 7.861821, z: -0.48949888}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -818,7 +818,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 55.36502
     speed: 2
-    m_Value: 52.98088
+    m_Value: 55.36502
   m_Ortho:
     m_Target: 1
     speed: 2
