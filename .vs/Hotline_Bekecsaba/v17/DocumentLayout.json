@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\T\u00F6kmindegy\\Hotline_Bekecsaba\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T\u00F6kmindegy\\Hotline_Bekecsaba\\Assets\\_GAME_\\World\\Bustop\\Sprites\\EPIC RPG World Pack - [FREE Demo]Ancient Ruins\\EPIC RPG World Pack - [FREE Demo]Ancient Ruins - Copia\\Tilesets\\0-READ ME.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_GAME_\\World\\Bustop\\Sprites\\EPIC RPG World Pack - [FREE Demo]Ancient Ruins\\EPIC RPG World Pack - [FREE Demo]Ancient Ruins - Copia\\Tilesets\\0-READ ME.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T\u00F6kmindegy\\Hotline_Bekecsaba\\Library\\PackageCache\\com.vladfaust.unitywakatime@4dedbeac2e\\Editor\\Plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.vladfaust.unitywakatime@4dedbeac2e\\Editor\\Plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "0-READ ME.txt",
-              "DocumentMoniker": "C:\\Users\\T\u00F6kmindegy\\Hotline_Bekecsaba\\Assets\\_GAME_\\World\\Bustop\\Sprites\\EPIC RPG World Pack - [FREE Demo]Ancient Ruins\\EPIC RPG World Pack - [FREE Demo]Ancient Ruins - Copia\\Tilesets\\0-READ ME.txt",
-              "RelativeDocumentMoniker": "Assets\\_GAME_\\World\\Bustop\\Sprites\\EPIC RPG World Pack - [FREE Demo]Ancient Ruins\\EPIC RPG World Pack - [FREE Demo]Ancient Ruins - Copia\\Tilesets\\0-READ ME.txt",
-              "ToolTip": "C:\\Users\\T\u00F6kmindegy\\Hotline_Bekecsaba\\Assets\\_GAME_\\World\\Bustop\\Sprites\\EPIC RPG World Pack - [FREE Demo]Ancient Ruins\\EPIC RPG World Pack - [FREE Demo]Ancient Ruins - Copia\\Tilesets\\0-READ ME.txt",
-              "RelativeToolTip": "Assets\\_GAME_\\World\\Bustop\\Sprites\\EPIC RPG World Pack - [FREE Demo]Ancient Ruins\\EPIC RPG World Pack - [FREE Demo]Ancient Ruins - Copia\\Tilesets\\0-READ ME.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-04T15:20:33.467Z",
+              "Title": "Plugin.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00F6kmindegy\\Hotline_Bekecsaba\\Library\\PackageCache\\com.vladfaust.unitywakatime@4dedbeac2e\\Editor\\Plugin.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.vladfaust.unitywakatime@4dedbeac2e\\Editor\\Plugin.cs",
+              "ToolTip": "C:\\Users\\T\u00F6kmindegy\\Hotline_Bekecsaba\\Library\\PackageCache\\com.vladfaust.unitywakatime@4dedbeac2e\\Editor\\Plugin.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.vladfaust.unitywakatime@4dedbeac2e\\Editor\\Plugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:34:45.715Z",
               "EditorCaption": ""
             }
           ]
